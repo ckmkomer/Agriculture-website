@@ -1,0 +1,17 @@
+D:\C# Udemy\AgriculturePresentation\BussinessLayer\bin\Debug\net6.0\BussinessLayer.deps.json
+D:\C# Udemy\AgriculturePresentation\BussinessLayer\bin\Debug\net6.0\BussinessLayer.dll
+D:\C# Udemy\AgriculturePresentation\BussinessLayer\bin\Debug\net6.0\BussinessLayer.pdb
+D:\C# Udemy\AgriculturePresentation\BussinessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+D:\C# Udemy\AgriculturePresentation\BussinessLayer\bin\Debug\net6.0\EntityLayer.dll
+D:\C# Udemy\AgriculturePresentation\BussinessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+D:\C# Udemy\AgriculturePresentation\BussinessLayer\bin\Debug\net6.0\EntityLayer.pdb
+D:\C# Udemy\AgriculturePresentation\BussinessLayer\obj\Debug\net6.0\BussinessLayer.csproj.AssemblyReference.cache
+D:\C# Udemy\AgriculturePresentation\BussinessLayer\obj\Debug\net6.0\BussinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Udemy\AgriculturePresentation\BussinessLayer\obj\Debug\net6.0\BussinessLayer.AssemblyInfoInputs.cache
+D:\C# Udemy\AgriculturePresentation\BussinessLayer\obj\Debug\net6.0\BussinessLayer.AssemblyInfo.cs
+D:\C# Udemy\AgriculturePresentation\BussinessLayer\obj\Debug\net6.0\BussinessLayer.csproj.CoreCompileInputs.cache
+D:\C# Udemy\AgriculturePresentation\BussinessLayer\obj\Debug\net6.0\BussinessLayer.csproj.CopyComplete
+D:\C# Udemy\AgriculturePresentation\BussinessLayer\obj\Debug\net6.0\BussinessLayer.dll
+D:\C# Udemy\AgriculturePresentation\BussinessLayer\obj\Debug\net6.0\refint\BussinessLayer.dll
+D:\C# Udemy\AgriculturePresentation\BussinessLayer\obj\Debug\net6.0\BussinessLayer.pdb
+D:\C# Udemy\AgriculturePresentation\BussinessLayer\obj\Debug\net6.0\ref\BussinessLayer.dll
